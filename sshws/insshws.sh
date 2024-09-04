@@ -4,7 +4,7 @@
 cd
 
 #Install Script Websocket-SSH Python
-wget -O /usr/local/bin/ws-dropbear https://raw.githubusercontent.com/petualangz/AI/main/sshws/ws-dropbear.service
+wget -O /usr/local/bin/ws-dropbear https://raw.githubusercontent.com/petualangz/AI/main/sshws/ws-dropbear
 wget -O /usr/local/bin/ws-stunnel https://raw.githubusercontent.com/petualangz/AI/main/sshws/ws-stunnel
 
 #izin permision
